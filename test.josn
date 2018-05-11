@@ -8,5 +8,114 @@
             "image": "https://planet-tvsat.com/boutique/1937-large_leocame/bein-sports-access-la-liga.jpg",
             "live": "",
             "name":"Bein LaLiga "
-          }
-          ]
+          },{
+            "id": "24",
+            "image": "https://cdn.mypanel.tv/picon/fr/BeinSports1.fr.png",
+            "live": "",
+            "name":"BEIN SPORT 1 AR"
+          },{
+            "id": "25",
+            "image": "https://sportsfriends.fr/wp-content/uploads/2017/11/BEINSPORTSMAX10.png",
+            "live": "",
+            "name":"BEIN SPORT MAX 10 AR"
+          },{
+            "id": "0",
+            "image": "https://www.transparenttextures.com/patterns/debut-light.png",
+            "live":"قنوات الاخبار العربية ",
+            "name":""
+          },{
+            "id": "0",
+            "image": "https://www.transparenttextures.com/patterns/debut-light.png",
+            "live":"أبو ظبي الرياضية",
+            "name":""
+          },{
+            "id": "0",
+            "image": "https://www.transparenttextures.com/patterns/debut-light.png",
+            "live":"التلفزة الوطنية المغربية",
+            "name":""
+          },{
+            "id": "2",
+            "image": "https://cdn.sat.tv/wp-content/uploads/2016/03/SNRT-Tamazight.png",
+            "live": "",
+            "name":"Tamazight"
+          },{
+            "id": "3",
+            "image": "https://cdn.sat.tv/wp-content/uploads/2016/05/SNRT-AlMaghribia.png",
+            "live": "",
+            "name":"Al Maghribia"
+          },{
+            "id": "4",
+            "image": "https://cdn.sat.tv/wp-content/uploads/2016/05/SNRTAssadissa.png",
+            "live": "",
+            "name":"Assadissa"
+          },{
+            "id": "5",
+            "image": "http://www.consulatdumaroc.ca/img/tv/4.png",
+            "live": "",
+            "name":"Arrabiaa"
+          },{
+            "id": "6",
+            "image": "https://maroc.mom-rsf.org/uploads/tx_lfrogmom/media/csm_27-1120_import_988c325ecd.png",
+            "live": "",
+            "name":"Aloula"
+          },{
+            "id": "7",
+            "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
+            "live": "",
+            "name":"2M Monde"
+          },{
+            "id": "0",
+            "image": "https://www.transparenttextures.com/patterns/debut-light.png",
+            "live":"قنوات اسلامية ",
+            "name":""
+          },{
+            "id": "0",
+            "image": "https://www.transparenttextures.com/patterns/debut-light.png",
+            "live":"قنوات متنوعة",
+            "name":""
+          },{
+            "id": "13",
+            "image": "http://iptv-planet.com/images/mbc_1.jpg",
+            "live": "",
+            "name":"Just Test"
+          },{
+            "id": "16",
+            "image": "http://meteoalcorcon.es/1_0_1_778E_424_1_C00000_0_0_0.png",
+            "live": "",
+            "name":"M.FUTBOL"
+          },{
+            "id": "17",
+            "image": "http://meteoalcorcon.es/la_liga_es.png",
+            "live": "",
+            "name":"LIGA TV BAR"
+          },{
+            "id": "18",
+            "image": "http://213.128.89.165/Main/Logo/es/cabecera.png",
+            "live": "",
+            "name":"Cabecera"
+          },{
+            "id": "19",
+            "image": "http://channelpear.com/images/media/6957.jpeg",
+            "live": "",
+            "name":"CBS News"
+          },{
+            "id": "20",
+            "image": "http://213.128.89.165/Main/Logo/es/ltv.png",
+            "live": "",
+            "name":"LEBRIJA TV"
+          },{
+            "id": "21",
+            "image": "http://2.bp.blogspot.com/-T4LEKxLclIA/VzBaPgwcpsI/AAAAAAAAAdw/jXkW0HFP9Sc_rNIs9QMRK6PakV0yOQJhwCLcB/s1600/esport3-webtvizlet-me.png",
+            "live": "",
+            "name":"Esport 3 TV"
+          },{
+            "id": "22",
+            "image": "http://as00.epimg.net/img/comunes/fotos/fichas/equipos/large/171.png",
+            "live": "",
+            "name":"Betis TV"
+          },{
+            "id": "23",
+            "image": "http://213.128.89.165/Main/Logo/mex/7TVRM.png",
+            "live": "",
+            "name":"7 TV"
+          }]
